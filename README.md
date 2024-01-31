@@ -19,6 +19,7 @@ A Game is a simple project developed using HTML5 and JavaScript. The game allows
 To run this game you don’t need to have any kind of local server but yet a browser. We recommend you to use modern browsers like Google Chrome and Mozilla Firefox for better and optimized gameplay. To play the game, first, open the game in your browser by clicking the index.html file. The Tetris Game in JavaScript with source code is free to download, use for educational purposes only.
 
 ![1](https://github.com/Atharv-101/Block-Web-Game/assets/69358946/f4d37f49-c0d9-40fe-8bc9-1bde639f7561)
-![2](https://github.com/Atharv-101/Block-Web-Game/assets/69358946/66f4d60d-2440-4e79-acf9-da521e2c392e)
 ![3](https://github.com/Atharv-101/Block-Web-Game/assets/69358946/81d802ce-0cca-43e9-8b2b-c12418618f1a)
+![2](https://github.com/Atharv-101/Block-Web-Game/assets/69358946/66f4d60d-2440-4e79-acf9-da521e2c392e)
+![4](https://github.com/Atharv-101/Block-Web-Game/assets/69358946/615040d9-c0b7-4e50-aba4-e4d99f3d7977)
 
